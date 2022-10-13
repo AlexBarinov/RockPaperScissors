@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  RockPaperScissors
+
+  Created by Alexander Barinov on 5/30/22.
+  
+*/
+
+"CFBundleName" = "Rock Paper Scissors";
